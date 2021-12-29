@@ -17,6 +17,7 @@ if (document.querySelector('.cubo-di-rubik-js')) {
             // throw new ReferenceError("Nuovo messaggio alla riga 16");
             // or
             // a
+            // debugger;
         } catch (Exception) {
             console.table({
                 "messaggio": Exception.message,
