@@ -9,7 +9,7 @@ const Funcmyalertjs = {
             // creo l'elemento
             // image
             var img = document.createElement('img');
-            img.src = "img/close.png";
+            img.src = "https://ivanpierdeveloper.github.io/try-catch/img/close.png";
             img.alt = "Not image";
             img.classList.add('img-close');
             // title and text
