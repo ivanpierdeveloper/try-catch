@@ -130,7 +130,7 @@ if (document.querySelector('.cubo-di-rubik-php-3')) {
         });
         // funziona con l'indirizzo completo http o https
         // const url = new URL("http://svilfi.utile.extranet.utilita.com/webserver/php/test/github/trycatch/docs/page/php.php");
-        const url = "php.ph";
+        const url = "https://ivanpierdeveloper.github.io/try-catch/docs/pages/php.php";
         const params = "?id=154&usr=ivanapple&psw=abc123&email=ivanapple@gmail.com&age=45";
         const rq = new Request(url + params, {
             method: 'GET',
