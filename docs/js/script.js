@@ -32,7 +32,7 @@ if (document.querySelector('.cubo-di-rubik-php')) {
     let btn_customized_php = document.querySelector('.cubo-di-rubik-php');
     btn_customized_php.addEventListener('click', (e) => {
 
-        window.location.href = "docs/page/phptrycatch.html";
+        window.location.href = "docs/pages/phptrycatch.html";
     });
 }
 // ./button customized PhP
