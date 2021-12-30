@@ -202,7 +202,8 @@ if (document.querySelector('.cubo-di-rubik-json')) {
             body = null;
         } else {
             method = "post";
-            body = fd;
+            // body = fd;
+            body = null;
         }
         const rq = new Request(url, {
             method: method,
