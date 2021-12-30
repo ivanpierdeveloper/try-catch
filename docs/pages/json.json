@@ -1,0 +1,31 @@
+[{
+        "id": 1,
+        "email": "batman@gmail.com",
+        "usr": "batman",
+        "psw": "abc123",
+        "age": 33,
+        "method": "json",
+        "content": {
+            "firstname": "batman cavaliere oscuro",
+            "lastname": "bm",
+            "content2": {
+                "mail": "cavaliereoscuro@gmail.com"
+            }
+        }
+    },
+    {
+        "id": 1,
+        "email": "spiderman@gmail.com",
+        "usr": "spiderman",
+        "psw": "spidermanABC123",
+        "age": 44,
+        "method": "json-2",
+        "content": {
+            "firstname": "uomoragno",
+            "lastname": "ur",
+            "content2": {
+                "mail": "uomoragno@gmail.com"
+            }
+        }
+    }
+]
